@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ahmed0205
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ahmed0205/Ahmed0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ahmed Hasan
+- 👀 I’m a passionate Software Engineer
+- 🌱 I’m currently learning Python , Graphic Designing
+- 💞️ I’m looking to collaborate on Python Dvelopment
+- 📫 How to reach me ahmedhasan61616@gmail.com
